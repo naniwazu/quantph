@@ -1,2 +1,2 @@
 # quantph
-preprints about quantph in which I am interested in
+preprints about quantum physics in which I am interested in
